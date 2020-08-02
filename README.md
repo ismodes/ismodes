@@ -7,7 +7,7 @@ Some interesting projects I have worked on..
   <li><a href="">Personal website</a></li>
 </ul>
 
-<br />
+---
 
 Connect with me!
 
