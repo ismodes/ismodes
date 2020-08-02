@@ -9,7 +9,7 @@ Some interesting projects I have worked on..
 Connect with me!
 
 <a href="https://www.linkedin.com/in/ismodes/"><img align="left" alt="https://www.linkedin.com/in/ismodes/" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<img align="left" alt="alex.ismodes@vanderbilt.edu" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" href="mailto:alex.ismodes@vanderbilt.edu" />
+<a href="mailto:alex.ismodes@vanderbilt.edu"><img align="left" alt="alex.ismodes@vanderbilt.edu" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" /></a>
 
 <br />
 
