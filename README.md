@@ -7,6 +7,7 @@ Connect with me!
 <img align="left" alt="alex.ismodes@vanderbilt.edu" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" href="mailto:alex.ismodes@vanderbilt.edu" />
 
 <br>
+<br>
 
 Languages/Technologies
 <br>
