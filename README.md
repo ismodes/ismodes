@@ -1,5 +1,12 @@
-### Hey! 👋
-#### I'm a junior at Vanderbilt University interested in the intersection between _environmental_, _data_, and _computer_ science!
+Some interesting projects I have worked on..
+<ul>
+  <li><a href="">Three-Agent Predation Model</a></li>
+  <li><a href="">Personal Website</a></li>
+</ul>
+
+<br>
+<br>
+<br>
 
 Connect with me!
 <br>
