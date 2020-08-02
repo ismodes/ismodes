@@ -3,13 +3,16 @@
 
 Connect with me!
 <br>
+<br>
 <a href="https://www.linkedin.com/in/ismodes/"><img align="left" alt="https://www.linkedin.com/in/ismodes/" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <img align="left" alt="alex.ismodes@vanderbilt.edu" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" href="mailto:alex.ismodes@vanderbilt.edu" />
 
 <br>
 <br>
+<br>
 
 Languages/Technologies
+<br>
 <br>
 <img align="left" alt="Python" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
