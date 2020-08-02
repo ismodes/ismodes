@@ -2,7 +2,7 @@
 #### I'm a junior at Vanderbilt University interested in the intersection between _environmental_, _data_, and _computer_ science!
 Some interesting projects I have worked on..
 <ul>
-  <li><a href="">Three-Agent Predation Model</a></li>
+  <li><a href="https://github.com/ismodes/three-agent-predation-model">Three-Agent Predation Model</a></li>
   <li><a href="">Personal website</a></li>
 </ul>  
 
@@ -10,7 +10,7 @@ Connect with me!
 <a href="https://www.linkedin.com/in/ismodes/"><img align="left" alt="https://www.linkedin.com/in/ismodes/" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="mailto:alex.ismodes@vanderbilt.edu"><img align="left" alt="alex.ismodes@vanderbilt.edu" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" /></a>  
 
-  
+
 Languages/Technologies  
 <img align="left" alt="Python" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
