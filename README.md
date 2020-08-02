@@ -1,12 +1,14 @@
-## Hey! 👋
-### I'm a junior at Vanderbilt University interested in the intersection between Environmental, Data, and Computer Science!
+### Hey! 👋
+#### I'm a junior at Vanderbilt University interested in the intersection between _environmental_, _data_, and _computer_ science!
 
 Connect with me!
+<br>
 <a href="https://www.linkedin.com/in/ismodes/"><img align="left" alt="https://www.linkedin.com/in/ismodes/" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <img align="left" alt="alex.ismodes@vanderbilt.edu" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" href="mailto:alex.ismodes@vanderbilt.edu" />
 
 
 Languages/Technologies
+<br>
 <img align="left" alt="Python" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="HTML5" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
