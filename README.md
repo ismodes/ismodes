@@ -3,7 +3,7 @@
 Some interesting projects I have worked on..
 <ul>
   <li><a href="https://github.com/ismodes/three-agent-predation-model">Three-Agent Predation Model</a></li>
-  <li><a href="">Personal website</a></li>
+  <li><a href="https://ismodes.github.io/">Personal website</a></li>
 </ul>  
 
 Connect with me!  
