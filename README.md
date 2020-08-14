@@ -1,6 +1,7 @@
 ### Hey! I'm Alejandro 👋
 #### I'm a junior from Perú studying at Vanderbilt University, and I'm interested in the intersection between _environmental_, _data_, and _computer_ science!
 Some interesting projects I have worked on..
+<br>
                   - <a href="https://github.com/ismodes/three-agent-predation-model">Three-Agent Predation Model</a></li>
                   - <a href="https://qe.github.io/">Personal website</a></li>
 
