@@ -2,9 +2,10 @@
 #### I'm a junior from Perú studying at Vanderbilt University, and I'm interested in the intersection between _environmental_, _data_, and _computer_ science!
 Some interesting projects I have worked on..
 <br>
-- [x] <a href="https://github.com/ismodes/three-agent-predation-model">Three-Agent Predation Model</a>
-- [x] <a href="https://qe.github.io/">Personal website</a>
 - [ ] <a href="https://github.com/qe/username-checker">username-checker</a>
+- [x] <a href="https://github.com/ismodes/three-agent-predation-model">three-agent-predation-model</a>
+- [x] <a href="https://qe.github.io/">my website</a>
+
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <br />
