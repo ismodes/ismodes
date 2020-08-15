@@ -4,7 +4,7 @@ Some interesting projects I have worked on..
 <br>
 - [x] <a href="https://github.com/ismodes/three-agent-predation-model">Three-Agent Predation Model</a>
 - [x] <a href="https://qe.github.io/">Personal website</a>
-- [] <a href="https://github.com/qe/username-checker">username-checker</a>
+- [ ] <a href="https://github.com/qe/username-checker">username-checker</a>
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <br />
