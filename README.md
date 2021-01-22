@@ -1,8 +1,4 @@
-<h1 align="Center">  Hey , I'm Alex <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-<h1 align="Center"> 
-  <img src="https://i.pinimg.com/originals/26/66/d4/2666d4878b82ecbd4aad13f48f3ae932.gif" width="100" alt="" />
-</h1>
 
 <h1 align="Center"> 
 <img src="https://komarev.com/ghpvc/?username=qe" alt="" />
